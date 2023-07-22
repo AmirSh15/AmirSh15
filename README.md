@@ -29,14 +29,14 @@
 ###
 
  <p align="center">
-  <a href="[link1](mailto:amirdonte15@gmail.com)">
+  <a href="mailto:amirdonte15@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Image 1" height="35">
   </a>
-  <a href="[link2](https://www.linkedin.com/in/amir-shirian-6675587b/)">  
+  <a href="https://www.linkedin.com/in/amir-shirian-6675587b/">  
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="Image 2" height="35">
   </a>
-  <a href="[link3](https://www.youtube.com/@amirshirian6950)">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="Image 3" height="35">
+  <a href="https://www.youtube.com/@amirshirian6950">
+    <img src="assests/ytube.svg" alt="Image 3" height="35">
   </a>
 </p>
  
